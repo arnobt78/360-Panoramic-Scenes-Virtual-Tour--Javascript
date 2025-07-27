@@ -1,4 +1,4 @@
-# 360° Panoramic Scenes Virtual Tour Brain Tree - Javascript Web Appliction
+# 360° Panoramic Scenes Virtual Tour Brain Tree - Javascript Web Application
 
 ![Screenshot 2025-07-28 at 01 31 51](https://github.com/user-attachments/assets/21d8d883-2421-4964-af66-a98cc36c9c10)
 ![Screenshot 2025-07-28 at 01 32 05](https://github.com/user-attachments/assets/3c076c90-bb18-43d3-b002-671d2fe5543a)
