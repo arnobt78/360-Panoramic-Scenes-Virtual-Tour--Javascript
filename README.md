@@ -39,7 +39,7 @@ This project is a browser-based 360° virtual tour web application. It allows us
 ## Project Structure
 
 ```bash
-Braintree2-main/
+360-virtual-tour/
 ├── data.js              # Scene and hotspot configuration (JSON)
 ├── index.html           # Main HTML file
 ├── index.js             # Main JavaScript logic
