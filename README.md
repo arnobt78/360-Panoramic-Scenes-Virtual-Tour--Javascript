@@ -9,7 +9,7 @@
 
 ## Project Summary
 
-This project is a browser-based 360° virtual tour as brain tree web application. It allows users to explore panoramic scenes, navigate between different rooms or areas, and interact with hotspots for information or navigation. The app is built using [Marzipano](https://www.marzipano.net/), a 360° media viewer library, and is fully client-side, requiring no backend server.
+This project is a browser-based 360° virtual tour, a Braintree web application. It allows users to explore panoramic scenes, navigate between different rooms or areas, and interact with hotspots for information or navigation. The app is built using [Marzipano](https://www.marzipano.net/), a 360° media viewer library, and is fully client-side, requiring no backend server.
 
 - **Live Demo:** [https://braintree-virtual-tour.netlify.app/](https://braintree-virtual-tour.netlify.app/)
 
